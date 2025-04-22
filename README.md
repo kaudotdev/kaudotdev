@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, me chamo Kauan</h1>
-<h3 align="center">Sou um desenvolvedor de 18 anos apaixonado full-stack em formação.</h3>
+<h3 align="center">Sou um desenvolvedor full-stack de 18 anos apaixonado em tecnologia.</h3>
 
 - 🔭 Atualmente trabalhando em **EggHunt**
 
